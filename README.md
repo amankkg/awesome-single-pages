@@ -8,3 +8,4 @@
 * [React Cheat Sheet](https://reactcheatsheet.com/)
 * [git - the simple guide - no deep shit!](https://rogerdudler.github.io/git-guide/)
 * [HEAD - A free guide to `<head>` elements](https://htmlhead.dev/)
+* [TypeScript Cheatsheets](https://github.com/typescript-cheatsheets)
